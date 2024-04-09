@@ -1,0 +1,36 @@
+body {
+    background-color: #335c65;
+}
+
+.cont {
+    padding-top: 15em;
+    padding-bottom: 10em;
+}
+
+article {
+    padding: 40px;
+    background-color: #157d8f;
+    font-size: x-large;
+    color: white;
+}
+
+aside img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.container {
+    margin-bottom: 30px;
+}
+
+.navbar {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+}
+
+.nav-item {
+    margin-right: 40px;
+}
